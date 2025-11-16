@@ -1,5 +1,5 @@
 """
-# Importando Bibliotecas
+#Extracao: copia os CSVs fonte para a pasta de trabalho e faz cópia inicial.
 """
 import os
 import shutil
