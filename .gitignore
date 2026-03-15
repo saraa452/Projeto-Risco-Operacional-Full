@@ -1,0 +1,90 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+dw/risk_dw.sqlite
+
+# Data (pode alternar com gitkeep dependo da necessidade)
+dados/*.csv
+dados/*.xlsx
+dados/*.xls
+
+# Outputs
+plots/
+reports/
+*.png
+*.pdf
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# Node (se usar ferramentas JS)
+node_modules/
+npm-debug.log
+
+# IDE specific
+.vscode/.history
+.pylintrc.local
