@@ -74,8 +74,6 @@ streamlit run dashboards/streamlit_app.py
 chmod +x run_dashboard.sh && ./run_dashboard.sh
 ```
 
-Acesse em [http://localhost:8501](http://localhost:8501)
-
 ## 📁 Estrutura do Projeto
 
 ```
